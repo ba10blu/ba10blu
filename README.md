@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Digital Scrum Master<br>👯 I’m looking to collaborate on DevOps, AWS, Agile Delivery <br>🤝 I’m looking for help with DevOps learning<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Agile Delivery, Scrum, Kanban, GitLab, Jenkins, CI/CD<br>⚡ Fun fact I can smell and tell the age of glenfiddich 
+🔭 I’m currently working as a Agile Delivery Manager<br>👯 I’m looking to collaborate on DevOps, AWS, Agile Delivery <br>🤝 I’m looking for help with DevOps learning<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Agile Delivery, Scrum, Kanban, GitLab, Jenkins, CI/CD<br>⚡ Fun fact I can smell and tell the age of glenfiddich 
 
 
 ## 🌐 Socials:
